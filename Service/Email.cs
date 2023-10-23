@@ -1,7 +1,7 @@
 using System.Net;
 using System.Net.Mail;
 
-public class Email
+public class Email : ImailService
 {
     private string smtpAdress => "smtp.gmail.com";
     private int port => 587;
