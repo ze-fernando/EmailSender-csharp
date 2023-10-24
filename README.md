@@ -9,6 +9,10 @@ Make your request POST in url:
 
 [http://localhost:5211/api/mails](http://localhost:5211/api/mails)
 
+See swagger doc:
+
+[http://localhost:5211](http://localhost:5211)
+
 **Json**
 
 ```yaml
