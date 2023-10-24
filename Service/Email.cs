@@ -6,7 +6,7 @@ public class Email : ImailService
     private string smtpAdress => "smtp.gmail.com";
     private int port => 587;
     private string emailFrom => "senderemail865@gmail.com";
-    private string pass => "senderemail865@gmail.com";
+    private string pass => "paaibkewjtitgsxf";
     
    public void MailAdd(MailMessage msg, string[] emails)
     {
