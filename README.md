@@ -18,8 +18,8 @@ See swagger doc:
 ```yaml
 {
   "emails":[
-    "emai_l@gmail.com",
-    "email_2@gmail.com"
+    "test01@email.com",
+    "test02@email.com"
   ],
   "subject": "this is a test",
   "body": "this is a body",
