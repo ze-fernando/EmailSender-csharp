@@ -19,7 +19,7 @@ See swagger doc:
 {
   "emails":[
     "emai_l0@gmail.com",
-    "email_1@gmail.com"
+    "email_2@gmail.com"
   ],
   "subject": "this is a test",
   "body": "this is a body",
